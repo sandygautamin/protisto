@@ -33,7 +33,7 @@
 
 <div class="row">
  <div class="col-sm-12 col-md-12">
- <h3 class="heading">Order Detail</h3>
+ <h3 class="heading">Detail Order</h3>
 
 <table class="table table-striped">
 <tbody>
